@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ClientSecurityV4",
-            path: "Products/xcframeworks/ClientSecurityV4.xcframework"
+            path: "ClientSecurityV4.xcframework"
         )
     ]
 )
