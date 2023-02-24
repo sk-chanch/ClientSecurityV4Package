@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/ClientSecurityV4-Swift.h</key>
 		<data>
-		6hVF8PxQRahr4igMpZpZ93VaxSE=
+		X4sgVRDvd9b2mN9NzGsn6lBgdTY=
 		</data>
 		<key>Headers/ClientSecurityV4.h</key>
 		<data>
@@ -14,79 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Cw75D6CCntx6FdCoM2gbHsBkf60=
+		MhbE5iQ7U6ztbRgm2YjORz6kMAc=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		VduYQ7rFbvcmkHkupsxxnePMc2M=
+		mM7GraQRC18JCQtK5rjVUxkLWdU=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		d8j/PiAnJbo3LCTnk7hW30JgMTk=
+		E4G6XDDoS5UAUZ1b5xb0ai+BXIs=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Vz/MlRbgvNxhHM/wBtNcp7t17CU=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		VduYQ7rFbvcmkHkupsxxnePMc2M=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftinterface</key>
-		<data>
-		d8j/PiAnJbo3LCTnk7hW30JgMTk=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		Vz/MlRbgvNxhHM/wBtNcp7t17CU=
+		q2BHJLeH/hftRE15AjQX3birFSM=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Ilqr41+eEBSozcVRBwx7OoOgjd0=
+		dN9EkuNVdVmguPgk7cxo27iSyUM=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<data>
-		jDeETsXFjQI6Z4r5DFMApvI/Lk0=
+		uxXoWpvS6qmlbKIrZJ6EH93Ai3g=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aGqF36MpAh0T7nzart9JElWnuvw=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftdoc</key>
-		<data>
-		Ilqr41+eEBSozcVRBwx7OoOgjd0=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftinterface</key>
-		<data>
-		jDeETsXFjQI6Z4r5DFMApvI/Lk0=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftmodule</key>
-		<data>
-		aGqF36MpAh0T7nzart9JElWnuvw=
+		APsmOBGnvq9maWjS2B5wiQaV+6M=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		UzXCK+rjMUGGKs3WiDEwxD7cbLo=
+		4dKIyR74IYNaDERe6NOrFzRTzg0=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		EDSK2Snye3Vdz5xedqfbrg6m7Eo=
+		Xf163oPr2rJfsTXYAdLhzsxoqxI=
 		</data>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		W4lwBHIKBW7DeLHBROZkZLtw3AA=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		UzXCK+rjMUGGKs3WiDEwxD7cbLo=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftinterface</key>
-		<data>
-		EDSK2Snye3Vdz5xedqfbrg6m7Eo=
-		</data>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		W4lwBHIKBW7DeLHBROZkZLtw3AA=
+		J1VLG+TSLWBr56M9iHDJ/GZiu7c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6hVF8PxQRahr4igMpZpZ93VaxSE=
+			X4sgVRDvd9b2mN9NzGsn6lBgdTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			OUf7PUcPyZ8uXE9ExKvk22m2AmGlZzE8b73hVnscsxo=
+			Mq+JNebdvzDTbAN1G8j1ymMoQucJzty7t5B1nDysAco=
 			</data>
 		</dict>
 		<key>Headers/ClientSecurityV4.h</key>
@@ -121,198 +85,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VduYQ7rFbvcmkHkupsxxnePMc2M=
+			mM7GraQRC18JCQtK5rjVUxkLWdU=
 			</data>
 			<key>hash2</key>
 			<data>
-			dAcuInt8BlGAep3PdJ7jdFROcR7ExCbE5Hg6+OQqWFw=
+			sWmIHhTgJw2jqOpWAsKLRdanQ2fEoneXKhNaSZd3+PI=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d8j/PiAnJbo3LCTnk7hW30JgMTk=
+			E4G6XDDoS5UAUZ1b5xb0ai+BXIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			z/fOMLTFnaZ2iUZ4sJpnSn7BcG1vMwkq6o3EMpVTONU=
+			L7tZB71DJgmvakvIPivyDbidn2czO6A3cVkDoBiumG0=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vz/MlRbgvNxhHM/wBtNcp7t17CU=
+			q2BHJLeH/hftRE15AjQX3birFSM=
 			</data>
 			<key>hash2</key>
 			<data>
-			4vrwS3xsjYHOYiJlllj32LTkbsv5z2hRSHkWEvq6b7c=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			VduYQ7rFbvcmkHkupsxxnePMc2M=
-			</data>
-			<key>hash2</key>
-			<data>
-			dAcuInt8BlGAep3PdJ7jdFROcR7ExCbE5Hg6+OQqWFw=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			d8j/PiAnJbo3LCTnk7hW30JgMTk=
-			</data>
-			<key>hash2</key>
-			<data>
-			z/fOMLTFnaZ2iUZ4sJpnSn7BcG1vMwkq6o3EMpVTONU=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Vz/MlRbgvNxhHM/wBtNcp7t17CU=
-			</data>
-			<key>hash2</key>
-			<data>
-			4vrwS3xsjYHOYiJlllj32LTkbsv5z2hRSHkWEvq6b7c=
+			3rD98y+Db7NszzfdO2GVmcqDT8u6boovqDLSUbYFIPU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ilqr41+eEBSozcVRBwx7OoOgjd0=
+			dN9EkuNVdVmguPgk7cxo27iSyUM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VH6NDzufG10Man/LpNcNguHtBn2ghoTlAHbgQBr9s3s=
+			VCiPUOnqOnMGd9uhrCiK4a8l7kwycC6fwUt4/chW9lk=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jDeETsXFjQI6Z4r5DFMApvI/Lk0=
+			uxXoWpvS6qmlbKIrZJ6EH93Ai3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			AAWOPAjmhZHtbloxliKTaXpkDR0ggrZPN8/ik2CGodI=
+			2AnGQuvx/VMSG7bQufgyq1osqlMws4S3XictDpXyCLk=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aGqF36MpAh0T7nzart9JElWnuvw=
+			APsmOBGnvq9maWjS2B5wiQaV+6M=
 			</data>
 			<key>hash2</key>
 			<data>
-			n4kJb/ht/63o4BGP40Od++8kG1nODRGS4YtXSnZRwVg=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Ilqr41+eEBSozcVRBwx7OoOgjd0=
-			</data>
-			<key>hash2</key>
-			<data>
-			VH6NDzufG10Man/LpNcNguHtBn2ghoTlAHbgQBr9s3s=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			jDeETsXFjQI6Z4r5DFMApvI/Lk0=
-			</data>
-			<key>hash2</key>
-			<data>
-			AAWOPAjmhZHtbloxliKTaXpkDR0ggrZPN8/ik2CGodI=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			aGqF36MpAh0T7nzart9JElWnuvw=
-			</data>
-			<key>hash2</key>
-			<data>
-			n4kJb/ht/63o4BGP40Od++8kG1nODRGS4YtXSnZRwVg=
+			C7yafgg4LspKi9WX5jf57gPFzL8zNQMZZnpj+D2eAXo=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UzXCK+rjMUGGKs3WiDEwxD7cbLo=
+			4dKIyR74IYNaDERe6NOrFzRTzg0=
 			</data>
 			<key>hash2</key>
 			<data>
-			k2DWFaHS18FuOyse466wb8a77XbtuKICUguoK+Oudvg=
+			NQwrYKqDjJr8gbmWU+8z8Gh+JBhiTz5kh9UTJ7X57GY=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EDSK2Snye3Vdz5xedqfbrg6m7Eo=
+			Xf163oPr2rJfsTXYAdLhzsxoqxI=
 			</data>
 			<key>hash2</key>
 			<data>
-			53/Vl1OCZrOWxZYRF9HH+6nyB1OnWbklp+PVrJmDOHM=
+			E4QzmyGHuUoin4jm1L2nMc7KiPNUsusa/wOgo5bfiGs=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			W4lwBHIKBW7DeLHBROZkZLtw3AA=
+			J1VLG+TSLWBr56M9iHDJ/GZiu7c=
 			</data>
 			<key>hash2</key>
 			<data>
-			ApPlbznCXhuq9hcFJxpiscW4ZF6IGg7Tcv1/4JB30WM=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UzXCK+rjMUGGKs3WiDEwxD7cbLo=
-			</data>
-			<key>hash2</key>
-			<data>
-			k2DWFaHS18FuOyse466wb8a77XbtuKICUguoK+Oudvg=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			EDSK2Snye3Vdz5xedqfbrg6m7Eo=
-			</data>
-			<key>hash2</key>
-			<data>
-			53/Vl1OCZrOWxZYRF9HH+6nyB1OnWbklp+PVrJmDOHM=
-			</data>
-		</dict>
-		<key>Modules/ClientSecurityV4.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			W4lwBHIKBW7DeLHBROZkZLtw3AA=
-			</data>
-			<key>hash2</key>
-			<data>
-			ApPlbznCXhuq9hcFJxpiscW4ZF6IGg7Tcv1/4JB30WM=
+			c5ev35+y0+LV9DSmkoYEefqtLuwba2pbjDTwBSWObP8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
