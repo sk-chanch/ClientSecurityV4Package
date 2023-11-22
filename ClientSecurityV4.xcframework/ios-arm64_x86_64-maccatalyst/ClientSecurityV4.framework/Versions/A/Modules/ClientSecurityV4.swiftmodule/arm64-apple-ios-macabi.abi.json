@@ -697,1022 +697,1050 @@
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 266,
+      "offset": 262,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "BooleanLiteral",
+      "offset": 318,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 832,
+      "offset": 884,
       "length": 10,
       "value": "\"embedded\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 852,
+      "offset": 904,
       "length": 17,
       "value": "\"mobileprovision\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 991,
+      "offset": 1043,
       "length": 15,
       "value": "\"Invalid Local\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1115,
+      "offset": 1167,
       "length": 19,
       "value": "\"Invalid Local Pro\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1253,
+      "offset": 1305,
       "length": 8,
       "value": "\"secure\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1299,
+      "offset": 1351,
       "length": 6,
       "value": "\"true\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1335,
+      "offset": 1387,
       "length": 13,
       "value": "\"Invalid Rel\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1418,
+      "offset": 1470,
       "length": 10,
       "value": "\"badtoken\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 1923,
+      "offset": 1975,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 2002,
+      "offset": 2054,
       "length": 5,
       "value": "\"UTC\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 2228,
+      "offset": 2280,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 2412,
+      "offset": 2464,
       "length": 5,
       "value": "\"UTC\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 2461,
+      "offset": 2513,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3124,
+      "offset": 3176,
       "length": 14,
       "value": "\"server error\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3459,
+      "offset": 3511,
       "length": 11,
       "value": "\"tokenhost\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3551,
+      "offset": 3603,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3645,
+      "offset": 3697,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3677,
+      "offset": 3729,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3717,
+      "offset": 3769,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3758,
+      "offset": 3810,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3798,
+      "offset": 3850,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3884,
+      "offset": 3936,
       "length": 11,
       "value": "\"Signature\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 3973,
+      "offset": 4025,
       "length": 10,
       "value": "\"username\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 4018,
+      "offset": 4070,
       "length": 10,
       "value": "\"password\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Array",
-      "offset": 4201,
+      "offset": 4253,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 4253,
+      "offset": 4305,
       "length": 27,
       "value": "\"Error with Json: \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 4279,
+      "offset": 4331,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 4632,
+      "offset": 4684,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 4945,
+      "offset": 4997,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Dictionary",
-      "offset": 5373,
+      "offset": 5425,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 5432,
+      "offset": 5484,
       "length": 8,
       "value": "\"Result\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Dictionary",
-      "offset": 5462,
+      "offset": 5514,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 5518,
+      "offset": 5570,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 5541,
+      "offset": 5593,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 5600,
+      "offset": 5652,
       "length": 13,
       "value": "\"TokenExpire\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 5629,
+      "offset": 5681,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6035,
+      "offset": 6087,
       "length": 14,
       "value": "\"format error\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6080,
+      "offset": 6132,
       "length": 35,
       "value": "\"Client Security 200 but get error\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6295,
+      "offset": 6347,
       "length": 10,
       "value": "\"badtoken\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6332,
+      "offset": 6384,
       "length": 38,
       "value": "\"Client Security Error: \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6369,
+      "offset": 6421,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6509,
+      "offset": 6561,
       "length": 14,
       "value": "\"server error\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 6669,
+      "offset": 6721,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 6739,
+      "offset": 6791,
       "length": 20,
       "value": "\"semaphore time out\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 6974,
+      "offset": 7026,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 7383,
+      "offset": 7435,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 7519,
+      "offset": 7571,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 7669,
+      "offset": 7721,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 7819,
+      "offset": 7871,
       "length": 10,
       "value": "\"10.120.1\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 7864,
+      "offset": 7916,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 7981,
+      "offset": 8033,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 8099,
+      "offset": 8151,
       "length": 10,
       "value": "\"embedded\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 8168,
+      "offset": 8220,
       "length": 17,
       "value": "\"mobileprovision\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 8779,
+      "offset": 8831,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 8903,
+      "offset": 8955,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 8961,
+      "offset": 9013,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 9333,
+      "offset": 9385,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 9636,
+      "offset": 9688,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 9671,
+      "offset": 9723,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 9700,
+      "offset": 9752,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 9715,
+      "offset": 9767,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 9903,
+      "offset": 9955,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 10266,
+      "offset": 10318,
       "length": 61,
       "value": "\"Apple Worldwide Developer Relations Certification Authority\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 10347,
+      "offset": 10399,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 10498,
+      "offset": 10550,
       "length": 15,
       "value": "\"yyMMddHHmmssZ\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 10869,
+      "offset": 10921,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 10904,
+      "offset": 10956,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 10933,
+      "offset": 10985,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 10958,
+      "offset": 11010,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 11146,
+      "offset": 11198,
       "length": 2,
       "value": "13"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 11529,
+      "offset": 11581,
       "length": 8,
       "value": "\"\u0017\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 11628,
+      "offset": 11680,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 11700,
+      "offset": 11752,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 11761,
+      "offset": 11813,
       "length": 61,
       "value": "\"Apple Worldwide Developer Relations Certification Authority\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 11842,
+      "offset": 11894,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 12058,
+      "offset": 12110,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 12061,
+      "offset": 12113,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12125,
+      "offset": 12177,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12234,
+      "offset": 12286,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 12307,
+      "offset": 12359,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 12310,
+      "offset": 12362,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12360,
+      "offset": 12412,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12451,
+      "offset": 12503,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12556,
+      "offset": 12608,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 12567,
+      "offset": 12619,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13119,
+      "offset": 13171,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 13145,
+      "offset": 13197,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13225,
+      "offset": 13277,
       "length": 8,
       "value": "\"<plist\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 13249,
+      "offset": 13301,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13317,
+      "offset": 13369,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13395,
+      "offset": 13447,
       "length": 9,
       "value": "\"<\/plist\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 13419,
+      "offset": 13471,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13567,
+      "offset": 13619,
       "length": 20,
       "value": "\"(0x)?([0-9a-f]{2})\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 13709,
+      "offset": 13761,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Array",
-      "offset": 13827,
+      "offset": 13879,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 13850,
+      "offset": 13902,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 14005,
+      "offset": 14057,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 14017,
+      "offset": 14069,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14114,
+      "offset": 14166,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14278,
+      "offset": 14330,
       "length": 38,
       "value": "\"hello phuket service company limited\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14331,
+      "offset": 14383,
       "length": 25,
       "value": "\"megazy company limited.\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14372,
+      "offset": 14424,
       "length": 25,
       "value": "\"government savings bank\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14413,
+      "offset": 14465,
       "length": 25,
       "value": "\"ministry of justice, th\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14278,
+      "offset": 14330,
       "length": 38,
       "value": "\"hello phuket service company limited\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14331,
+      "offset": 14383,
       "length": 25,
       "value": "\"megazy company limited.\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14372,
+      "offset": 14424,
       "length": 25,
       "value": "\"government savings bank\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14413,
+      "offset": 14465,
       "length": 25,
       "value": "\"ministry of justice, th\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14633,
+      "offset": 14685,
       "length": 10,
       "value": "\"embedded\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14653,
+      "offset": 14705,
       "length": 17,
       "value": "\"mobileprovision\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14792,
+      "offset": 14844,
       "length": 15,
       "value": "\"Invalid Local\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14916,
+      "offset": 14968,
       "length": 19,
       "value": "\"Invalid Local Pro\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15054,
+      "offset": 15106,
       "length": 8,
       "value": "\"secure\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15100,
+      "offset": 15152,
       "length": 6,
       "value": "\"true\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15136,
+      "offset": 15188,
       "length": 13,
       "value": "\"Invalid Rel\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15219,
+      "offset": 15271,
       "length": 10,
       "value": "\"badtoken\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15688,
+      "offset": 15740,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 15763,
+      "offset": 15815,
       "length": 5,
       "value": "\"UTC\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 15973,
+      "offset": 16025,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 16141,
+      "offset": 16193,
       "length": 5,
       "value": "\"UTC\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 16186,
+      "offset": 16238,
       "length": 21,
       "value": "\"yyyy-MM-dd HH:mm:ss\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 16581,
+      "length": 11,
+      "value": "200000000"
+    },
+    {
+      "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16885,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "BooleanLiteral",
+      "offset": 17187,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 16847,
+      "offset": 17326,
       "length": 14,
       "value": "\"server error\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17119,
+      "offset": 17598,
       "length": 11,
       "value": "\"tokenhost\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17319,
+      "offset": 17798,
       "length": 6,
       "value": "\"POST\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17351,
+      "offset": 17830,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17391,
+      "offset": 17870,
       "length": 14,
       "value": "\"Content-Type\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17432,
+      "offset": 17911,
       "length": 18,
       "value": "\"application\/json\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17472,
+      "offset": 17951,
       "length": 8,
       "value": "\"Accept\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17558,
+      "offset": 18037,
       "length": 11,
       "value": "\"Signature\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17647,
+      "offset": 18126,
       "length": 10,
       "value": "\"username\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17692,
+      "offset": 18171,
       "length": 10,
       "value": "\"password\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Array",
-      "offset": 17875,
+      "offset": 18354,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17927,
+      "offset": 18406,
       "length": 27,
       "value": "\"Error with Json: \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17953,
+      "offset": 18432,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 18383,
+      "offset": 18862,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 18389,
+      "offset": 18868,
       "length": 3,
       "value": "300"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 18665,
+      "offset": 19144,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Dictionary",
-      "offset": 18810,
+      "offset": 19289,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 18857,
+      "offset": 19336,
       "length": 8,
       "value": "\"Result\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "Dictionary",
-      "offset": 18887,
+      "offset": 19366,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 18931,
+      "offset": 19410,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 18954,
+      "offset": 19433,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 19001,
+      "offset": 19480,
       "length": 13,
       "value": "\"TokenExpire\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 19030,
+      "offset": 19509,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 19309,
+      "offset": 19788,
       "length": 51,
       "value": "\"Client Security Error: \""
     },
     {
       "filePath": "\/Volumes\/THUNDER-WORK\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 19359,
+      "offset": 19838,
       "length": 2,
       "value": "\"\""
     }
