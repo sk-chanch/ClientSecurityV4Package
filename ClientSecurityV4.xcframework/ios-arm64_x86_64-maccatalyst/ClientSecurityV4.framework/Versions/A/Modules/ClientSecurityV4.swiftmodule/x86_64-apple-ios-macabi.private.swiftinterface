@@ -28,7 +28,7 @@ public class HostConnect {
 }
 extension ClientSecurityV4.HostConnect {
   #if compiler(>=5.3) && $AsyncAwait
-  public func updateAuthentication() async throws -> Swift.String
+  public func updateAuthenticationAsync() async throws -> Swift.String
   #endif
 }
 @_hasMissingDesignatedInitializers public class ClientSite {

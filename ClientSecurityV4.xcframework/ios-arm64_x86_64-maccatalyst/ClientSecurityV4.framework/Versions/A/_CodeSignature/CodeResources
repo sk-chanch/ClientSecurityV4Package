@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		Vn2YsGXlMSYWOp9nRLouGc2Pwiw=
+		yaYtCccZVsSmK1kkuHm0T5kUCYs=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8Hfmcx5BIaUbGyja+tyHWoarLp+4S1ZqmHqvrILNOI=
+			LK2/A3sRtkUtfD0a8kBMhvSRbrVqONC0MBFRPWFhRvo=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2JR1SSGa+IfctGtHMBoW8U40ziD2lEdfa3nYV/JcxQU=
+			Z3Hl9fGmYk62uyCIyyKynY9gqx/xakTwomk76fVfOPQ=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2JR1SSGa+IfctGtHMBoW8U40ziD2lEdfa3nYV/JcxQU=
+			Z3Hl9fGmYk62uyCIyyKynY9gqx/xakTwomk76fVfOPQ=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0HVDaqpUeGPB4RvecBjP0cLO1s7cnOE8OiEYrKMBrF4=
+			cEsqAXcOAaIyWGq5HogfVIsz0rIFIhfCNAm2wPw9Y4I=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8Hfmcx5BIaUbGyja+tyHWoarLp+4S1ZqmHqvrILNOI=
+			LK2/A3sRtkUtfD0a8kBMhvSRbrVqONC0MBFRPWFhRvo=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gdhu4szV6WNy1apqDFFjNtuZImC/WdEyFT2incvH8IM=
+			2lQdP3+r75LxuSj45j/Uzk11MXjqEGCUTZ1Qd/7uwMU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gdhu4szV6WNy1apqDFFjNtuZImC/WdEyFT2incvH8IM=
+			2lQdP3+r75LxuSj45j/Uzk11MXjqEGCUTZ1Qd/7uwMU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5sh0mpxrS0/IyF7csOX9HTpSanL315mE4uYbxeuhgdY=
+			BfnKlgjtkgbrWBQM6enoSC0w2ptWHZ+UEc3yDmuwa7M=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -106,7 +106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MnGOueo/Lh3ojaEZuvpU/xihef/HGKzbm9XurTG8cyE=
+			4eL91XkVpbSsqgucTV/a8EvuxIvQVy7ucfqH9WxMaio=
 			</data>
 		</dict>
 	</dict>
