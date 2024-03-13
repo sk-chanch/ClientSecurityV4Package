@@ -6,7 +6,7 @@
 	<dict>
 		<key>Resources/Info.plist</key>
 		<data>
-		yaYtCccZVsSmK1kkuHm0T5kUCYs=
+		ASbzgl6WxgQhpWjEdvL4vtOaHks=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6JazXCx52hOtnsL9zVuBlg/ILqBOrECGRxABMzR6c64=
+			/672d9ye7nKhBxoQl63jqXaxdEw6jIC5STst+RvnYsc=
 			</data>
 		</dict>
 		<key>Headers/ClientSecurityV4.h</key>
@@ -29,84 +29,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IL6SOi4DdNoFIgtKfRKJS9Rkm5wAFRXgd9Ny1VTdD9M=
+			5JSR1bELyiDUAgexHq5FIhAxMAcEmQC3VrtZSgy0OaU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z3Hl9fGmYk62uyCIyyKynY9gqx/xakTwomk76fVfOPQ=
+			6lIebXU0fmUxMPYnNdcynKnlL1rlH6OTlwqsTwTbVXU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cBGDOFpcWYGB3rzk2KbJxOI/8VR41/fmqWls67qk36s=
+			+T1/UVsjUZqFFA+Qjo5JfkIaNy5ytYQ66QH2M7j9ucY=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z3Hl9fGmYk62uyCIyyKynY9gqx/xakTwomk76fVfOPQ=
+			6lIebXU0fmUxMPYnNdcynKnlL1rlH6OTlwqsTwTbVXU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b2+kFNqOrONczM0WJEI+EibQoNN1CXKYiPA4a3u2RBc=
+			SA2Wob3GcVph0XCz8ZTlLRfAn08Fy/8uxSVkGiW/1GI=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IL6SOi4DdNoFIgtKfRKJS9Rkm5wAFRXgd9Ny1VTdD9M=
+			5JSR1bELyiDUAgexHq5FIhAxMAcEmQC3VrtZSgy0OaU=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2lQdP3+r75LxuSj45j/Uzk11MXjqEGCUTZ1Qd/7uwMU=
+			KiSISnvmk+723g+3JtxYy4F1n7lMEtaVX8OgrcZeZjQ=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lD7jT0Z5Zvp7xnPz9+Tvd8V9NgF3rmOnqZcHVbP7f+c=
+			BFzpmc7xAxr8vM0eew6sIC8fT/B+F71g29vbnH2oOQE=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2lQdP3+r75LxuSj45j/Uzk11MXjqEGCUTZ1Qd/7uwMU=
+			KiSISnvmk+723g+3JtxYy4F1n7lMEtaVX8OgrcZeZjQ=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hkaz5Joz5KqHFYNKLuk8FHX2u0B7xwQneAZHshXp96E=
+			LM+LAvOcwYPuaC1Z9SumP8o1vB6A2Frz+vK4QgbvIcQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uXwAr8kAdXtY3McIh8KLBjFlKIM/R5P7skVjjxOpWqg=
+			/JUy5bAnkmmFob90xwSbHYEt3MtVBlf3Z9abbY69ebg=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eL91XkVpbSsqgucTV/a8EvuxIvQVy7ucfqH9WxMaio=
+			U/svn3nklgpxrq4Jz7y4cCU9JQ9mDThC5jlTQZNG+qM=
 			</data>
 		</dict>
 	</dict>
