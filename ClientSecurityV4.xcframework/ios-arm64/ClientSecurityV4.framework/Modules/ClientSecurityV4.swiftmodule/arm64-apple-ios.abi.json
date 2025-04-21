@@ -1,8 +1,8 @@
 {
   "ABIRoot": {
     "kind": "Root",
-    "name": "TopLevel",
-    "printedName": "TopLevel",
+    "name": "ClientSecurityV4",
+    "printedName": "ClientSecurityV4",
     "children": [
       {
         "kind": "Import",
@@ -152,6 +152,20 @@
           "ObjectiveC.NSObject"
         ],
         "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
           {
             "kind": "Conformance",
             "name": "Equatable",
@@ -334,6 +348,20 @@
         "conformances": [
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
@@ -380,6 +408,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -518,6 +553,22 @@
         "moduleName": "ClientSecurityV4",
         "declAttributes": [
           "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
         ]
       },
       {
@@ -541,1215 +592,90 @@
         "declAttributes": [
           "AccessControl"
         ],
-        "hasMissingDesignatedInitializers": true
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
       "kind": "StringLiteral",
-      "offset": 595,
-      "length": 12,
-      "value": "\"UserAuthen\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 682,
-      "length": 50,
+      "offset": 590,
+      "length": 40,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
       "kind": "StringLiteral",
-      "offset": 715,
+      "offset": 623,
       "length": 1,
-      "value": "\"-ClientAuthorize\""
+      "value": "\".token\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1605,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
       "kind": "StringLiteral",
-      "offset": 1672,
-      "length": 2,
+      "offset": 704,
+      "length": 42,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2486,
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 737,
       "length": 1,
-      "value": "0"
+      "value": "\".account\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 2553,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10581,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 10651,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 10911,
-      "length": 50,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 10944,
-      "length": 1,
-      "value": "\"-ClientAuthorize\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
-      "kind": "StringLiteral",
-      "offset": 11039,
-      "length": 12,
-      "value": "\"UserAuthen\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "BooleanLiteral",
-      "offset": 490,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 570,
-      "length": 13,
-      "value": "\"certificate\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 593,
-      "length": 5,
-      "value": "\"cer\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "BooleanLiteral",
-      "offset": 703,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1612,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1956,
-      "length": 13,
-      "value": "\"certificate\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/SessionPinningDelegate.swift",
-      "kind": "StringLiteral",
-      "offset": 1979,
-      "length": 5,
-      "value": "\"cer\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
       "offset": 215,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 262,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 318,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 889,
-      "length": 10,
-      "value": "\"embedded\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 909,
-      "length": 17,
-      "value": "\"mobileprovision\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1048,
-      "length": 15,
-      "value": "\"Invalid Local\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1172,
-      "length": 19,
-      "value": "\"Invalid Local Pro\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1310,
-      "length": 8,
-      "value": "\"secure\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1356,
-      "length": 6,
-      "value": "\"true\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1392,
-      "length": 13,
-      "value": "\"Invalid Rel\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 1475,
-      "length": 10,
-      "value": "\"badtoken\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2033,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 2132,
-      "length": 21,
-      "value": "\"yyyy-MM-dd HH:mm:ss\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 2215,
-      "length": 5,
-      "value": "\"UTC\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2436,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 2636,
-      "length": 5,
-      "value": "\"UTC\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 2689,
-      "length": 21,
-      "value": "\"yyyy-MM-dd HH:mm:ss\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 3472,
-      "length": 14,
-      "value": "\"server error\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 3812,
-      "length": 11,
-      "value": "\"tokenhost\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 3904,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 3998,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4030,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4070,
-      "length": 14,
-      "value": "\"Content-Type\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4111,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4151,
-      "length": 8,
-      "value": "\"Accept\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4237,
-      "length": 11,
-      "value": "\"Signature\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4326,
-      "length": 10,
-      "value": "\"username\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4371,
-      "length": 10,
-      "value": "\"password\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Array",
-      "offset": 4554,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4606,
-      "length": 27,
-      "value": "\"Error with Json: \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 4632,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4985,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5298,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Dictionary",
-      "offset": 5726,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 5785,
-      "length": 8,
-      "value": "\"Result\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Dictionary",
-      "offset": 5815,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 5871,
-      "length": 7,
-      "value": "\"Token\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 5894,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 5953,
-      "length": 13,
-      "value": "\"TokenExpire\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 5982,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6388,
-      "length": 14,
-      "value": "\"format error\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6433,
-      "length": 35,
-      "value": "\"Client Security 200 but get error\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6648,
-      "length": 10,
-      "value": "\"badtoken\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6685,
-      "length": 38,
-      "value": "\"Client Security Error: \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6722,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 6862,
-      "length": 14,
-      "value": "\"server error\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7022,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 7092,
-      "length": 20,
-      "value": "\"semaphore time out\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7332,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 7741,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 7877,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 8027,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 8177,
-      "length": 10,
-      "value": "\"10.120.1\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8222,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 8339,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 8462,
-      "length": 10,
-      "value": "\"embedded\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 8531,
-      "length": 17,
-      "value": "\"mobileprovision\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9142,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9266,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9324,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9696,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9999,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 10034,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 10063,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 10078,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10266,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 10629,
-      "length": 61,
-      "value": "\"Apple Worldwide Developer Relations Certification Authority\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 10710,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 10861,
-      "length": 15,
-      "value": "\"yyMMddHHmmssZ\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 11232,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 11267,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 11296,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 11321,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11509,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 11892,
-      "length": 8,
-      "value": "\"\u0017\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 11991,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12063,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12124,
-      "length": 61,
-      "value": "\"Apple Worldwide Developer Relations Certification Authority\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 12205,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12426,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12429,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12493,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12602,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12675,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 12678,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12728,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12819,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12924,
-      "length": 3,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 12935,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 13487,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13513,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 13593,
-      "length": 8,
-      "value": "\"<plist\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13617,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 13685,
-      "length": 3,
-      "value": "\" \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 13763,
-      "length": 9,
-      "value": "\"<\/plist\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 13787,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 13935,
-      "length": 20,
-      "value": "\"(0x)?([0-9a-f]{2})\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14077,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Array",
-      "offset": 14195,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14218,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14373,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 14385,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14482,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14645,
+      "offset": 14598,
       "length": 38,
       "value": "\"hello phuket service company limited\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14698,
+      "offset": 14651,
       "length": 25,
       "value": "\"megazy company limited.\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14739,
+      "offset": 14692,
       "length": 25,
       "value": "\"government savings bank\""
     },
     {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14780,
+      "offset": 14733,
       "length": 25,
       "value": "\"ministry of justice, th\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14645,
-      "length": 38,
-      "value": "\"hello phuket service company limited\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14698,
-      "length": 25,
-      "value": "\"megazy company limited.\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14739,
-      "length": 25,
-      "value": "\"government savings bank\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14780,
-      "length": 25,
-      "value": "\"ministry of justice, th\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 14994,
-      "length": 10,
-      "value": "\"embedded\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15014,
-      "length": 17,
-      "value": "\"mobileprovision\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15153,
-      "length": 15,
-      "value": "\"Invalid Local\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15277,
-      "length": 19,
-      "value": "\"Invalid Local Pro\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15415,
-      "length": 8,
-      "value": "\"secure\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15461,
-      "length": 6,
-      "value": "\"true\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15497,
-      "length": 13,
-      "value": "\"Invalid Rel\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 15580,
-      "length": 10,
-      "value": "\"badtoken\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16094,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 16185,
-      "length": 21,
-      "value": "\"yyyy-MM-dd HH:mm:ss\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 16264,
-      "length": 5,
-      "value": "\"UTC\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 16473,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 16657,
-      "length": 5,
-      "value": "\"UTC\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 16706,
-      "length": 21,
-      "value": "\"yyyy-MM-dd HH:mm:ss\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 17052,
-      "length": 11,
-      "value": "200000000"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17461,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "BooleanLiteral",
-      "offset": 17763,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 17902,
-      "length": 14,
-      "value": "\"server error\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18169,
-      "length": 11,
-      "value": "\"tokenhost\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18369,
-      "length": 6,
-      "value": "\"POST\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18401,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18441,
-      "length": 14,
-      "value": "\"Content-Type\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18482,
-      "length": 18,
-      "value": "\"application\/json\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18522,
-      "length": 8,
-      "value": "\"Accept\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18608,
-      "length": 11,
-      "value": "\"Signature\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18697,
-      "length": 10,
-      "value": "\"username\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18742,
-      "length": 10,
-      "value": "\"password\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Array",
-      "offset": 18925,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 18977,
-      "length": 27,
-      "value": "\"Error with Json: \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 19003,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19433,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19439,
-      "length": 3,
-      "value": "300"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "IntegerLiteral",
-      "offset": 19715,
-      "length": 3,
-      "value": "200"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Dictionary",
-      "offset": 19860,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 19907,
-      "length": 8,
-      "value": "\"Result\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "Dictionary",
-      "offset": 19937,
-      "length": 3,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 19981,
-      "length": 7,
-      "value": "\"Token\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 20004,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 20051,
-      "length": 13,
-      "value": "\"TokenExpire\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 20080,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 20359,
-      "length": 51,
-      "value": "\"Client Security Error: \""
-    },
-    {
-      "filePath": "\/Users\/chanchanakoedtho\/iOS-Mac\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
-      "kind": "StringLiteral",
-      "offset": 20409,
-      "length": 2,
-      "value": "\"\""
     }
   ]
 }
