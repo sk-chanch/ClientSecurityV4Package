@@ -29,7 +29,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvFHuuEaYpZd9DxjNxFovII2vQk7yhKr6hCST0ybw84=
+			AoRdsJLvxztiqf97bGknQeSvMc20IXL04aZEaGuBLOI=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
@@ -57,14 +57,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lwxk722tbhDWa3xmwWdZPY4xLC0nGJDHD5n6inKzPEs=
+			CWqD9Uovfh02FZynk4GjFGfPFljD+bZjgIbWgK8oou4=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xvFHuuEaYpZd9DxjNxFovII2vQk7yhKr6hCST0ybw84=
+			AoRdsJLvxztiqf97bGknQeSvMc20IXL04aZEaGuBLOI=
 			</data>
 		</dict>
 		<key>Modules/ClientSecurityV4.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EQ3z1XG4jULjyunw0cDKyqrKPDGvHnX+OhZLeh2gpw4=
+			Dcf+W6GVipQfJqbOH7wHJrd5CDArRyv/biByTkQJPiA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
