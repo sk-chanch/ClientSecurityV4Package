@@ -9,8 +9,12 @@ import _Concurrency
 import _StringProcessing
 import _SwiftConcurrencyShims
 @objc @_inheritsConvenienceInitializers public class ClientAuthorize : ObjectiveC.NSObject {
+  public func hasCredentials(isJWT: Swift.Bool = true) -> Swift.Bool
   public func setPassword(account: Swift.String, password: Swift.String) throws
   public func setToken(account: Swift.String, token: Swift.String, expiredDate: Swift.String) throws
+  public func setJWTRefreshToken(refreshToken: Swift.String) throws
+  public func setJWTExp(jwtExp: Swift.String) throws
+  public func setJWTToken(jwtToken: Swift.String) throws
   public func deleteAllKey()
   @objc override dynamic public init()
   @objc deinit
@@ -19,6 +23,18 @@ import _SwiftConcurrencyShims
   @objc public func urlSession(_ session: Foundation.URLSession, didReceive challenge: Foundation.URLAuthenticationChallenge, completionHandler: @escaping (Foundation.URLSession.AuthChallengeDisposition, Foundation.URLCredential?) -> Swift.Void)
   @objc override dynamic public init()
   @objc deinit
+}
+public struct ClientSecuritySessionInfo {
+  public init(token: Swift.String, refreshToken: Swift.String)
+}
+public enum NewTokenStrategy {
+  case jwt
+  case tokenHost
+  public static func == (a: ClientSecurityV4.NewTokenStrategy, b: ClientSecurityV4.NewTokenStrategy) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
 }
 public class HostConnect {
   public init()
@@ -30,6 +46,17 @@ public class HostConnect {
 extension ClientSecurityV4.HostConnect {
   public func updateAuthenticationAsync() async throws -> Swift.String
 }
+extension ClientSecurityV4.HostConnect {
+  public func mapSessionInfo<T>(_ handler: @escaping (T) -> ClientSecurityV4.ClientSecuritySessionInfo) -> Self where T : Swift.Decodable
+  public func tokenHost(host: Swift.String) -> Self
+  public func secureValue(secure: Swift.String) -> Self
+  public func refreshTokenURL(url: Swift.String) -> Self
+  public func newTokenStrategy(_ strategy: ClientSecurityV4.NewTokenStrategy) -> Self
+  public func jwtExpiredKey(key: Swift.String) -> Self
+  public func jwtBufferExpTime(exp: Foundation.TimeInterval) -> Self
+}
 @_hasMissingDesignatedInitializers public class ClientSite {
   @objc deinit
 }
+extension ClientSecurityV4.NewTokenStrategy : Swift.Equatable {}
+extension ClientSecurityV4.NewTokenStrategy : Swift.Hashable {}

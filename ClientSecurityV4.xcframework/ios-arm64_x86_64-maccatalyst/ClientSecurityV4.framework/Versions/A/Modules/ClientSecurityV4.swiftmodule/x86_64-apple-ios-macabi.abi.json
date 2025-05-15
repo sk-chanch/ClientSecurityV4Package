@@ -21,6 +21,34 @@
         "children": [
           {
             "kind": "Function",
+            "name": "hasCredentials",
+            "printedName": "hasCredentials(isJWT:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV40A9AuthorizeC14hasCredentials5isJWTS2b_tF",
+            "mangledName": "$s16ClientSecurityV40A9AuthorizeC14hasCredentials5isJWTS2b_tF",
+            "moduleName": "ClientSecurityV4",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "setPassword",
             "printedName": "setPassword(account:password:)",
             "children": [
@@ -84,6 +112,87 @@
             "declKind": "Func",
             "usr": "s:16ClientSecurityV40A9AuthorizeC8setToken7account5token11expiredDateySS_S2StKF",
             "mangledName": "$s16ClientSecurityV40A9AuthorizeC8setToken7account5token11expiredDateySS_S2StKF",
+            "moduleName": "ClientSecurityV4",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setJWTRefreshToken",
+            "printedName": "setJWTRefreshToken(refreshToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV40A9AuthorizeC18setJWTRefreshToken07refreshG0ySS_tKF",
+            "mangledName": "$s16ClientSecurityV40A9AuthorizeC18setJWTRefreshToken07refreshG0ySS_tKF",
+            "moduleName": "ClientSecurityV4",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setJWTExp",
+            "printedName": "setJWTExp(jwtExp:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV40A9AuthorizeC9setJWTExp6jwtExpySS_tKF",
+            "mangledName": "$s16ClientSecurityV40A9AuthorizeC9setJWTExp6jwtExpySS_tKF",
+            "moduleName": "ClientSecurityV4",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "setJWTToken",
+            "printedName": "setJWTToken(jwtToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV40A9AuthorizeC11setJWTToken8jwtTokenySS_tKF",
+            "mangledName": "$s16ClientSecurityV40A9AuthorizeC11setJWTToken8jwtTokenySS_tKF",
             "moduleName": "ClientSecurityV4",
             "declAttributes": [
               "AccessControl"
@@ -430,6 +539,283 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "ClientSecuritySessionInfo",
+        "printedName": "ClientSecuritySessionInfo",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(token:refreshToken:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ClientSecuritySessionInfo",
+                "printedName": "ClientSecurityV4.ClientSecuritySessionInfo",
+                "usr": "s:16ClientSecurityV40aB11SessionInfoV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:16ClientSecurityV40aB11SessionInfoV5token12refreshTokenACSS_SStcfc",
+            "mangledName": "$s16ClientSecurityV40aB11SessionInfoV5token12refreshTokenACSS_SStcfc",
+            "moduleName": "ClientSecurityV4",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:16ClientSecurityV40aB11SessionInfoV",
+        "mangledName": "$s16ClientSecurityV40aB11SessionInfoV",
+        "moduleName": "ClientSecurityV4",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "NewTokenStrategy",
+        "printedName": "NewTokenStrategy",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "jwt",
+            "printedName": "jwt",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ClientSecurityV4.NewTokenStrategy.Type) -> ClientSecurityV4.NewTokenStrategy",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NewTokenStrategy",
+                    "printedName": "ClientSecurityV4.NewTokenStrategy",
+                    "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ClientSecurityV4.NewTokenStrategy.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NewTokenStrategy",
+                        "printedName": "ClientSecurityV4.NewTokenStrategy",
+                        "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ClientSecurityV416NewTokenStrategyO3jwtyA2CmF",
+            "mangledName": "$s16ClientSecurityV416NewTokenStrategyO3jwtyA2CmF",
+            "moduleName": "ClientSecurityV4"
+          },
+          {
+            "kind": "Var",
+            "name": "tokenHost",
+            "printedName": "tokenHost",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(ClientSecurityV4.NewTokenStrategy.Type) -> ClientSecurityV4.NewTokenStrategy",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NewTokenStrategy",
+                    "printedName": "ClientSecurityV4.NewTokenStrategy",
+                    "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "ClientSecurityV4.NewTokenStrategy.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "NewTokenStrategy",
+                        "printedName": "ClientSecurityV4.NewTokenStrategy",
+                        "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:16ClientSecurityV416NewTokenStrategyO9tokenHostyA2CmF",
+            "mangledName": "$s16ClientSecurityV416NewTokenStrategyO9tokenHostyA2CmF",
+            "moduleName": "ClientSecurityV4"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NewTokenStrategy",
+                "printedName": "ClientSecurityV4.NewTokenStrategy",
+                "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NewTokenStrategy",
+                "printedName": "ClientSecurityV4.NewTokenStrategy",
+                "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV416NewTokenStrategyO2eeoiySbAC_ACtFZ",
+            "mangledName": "$s16ClientSecurityV416NewTokenStrategyO2eeoiySbAC_ACtFZ",
+            "moduleName": "ClientSecurityV4",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "hashValue",
+            "printedName": "hashValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:16ClientSecurityV416NewTokenStrategyO9hashValueSivp",
+            "mangledName": "$s16ClientSecurityV416NewTokenStrategyO9hashValueSivp",
+            "moduleName": "ClientSecurityV4",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:16ClientSecurityV416NewTokenStrategyO9hashValueSivg",
+                "mangledName": "$s16ClientSecurityV416NewTokenStrategyO9hashValueSivg",
+                "moduleName": "ClientSecurityV4",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "hash",
+            "printedName": "hash(into:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Hasher",
+                "printedName": "Swift.Hasher",
+                "paramValueOwnership": "InOut",
+                "usr": "s:s6HasherV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV416NewTokenStrategyO4hash4intoys6HasherVz_tF",
+            "mangledName": "$s16ClientSecurityV416NewTokenStrategyO4hash4intoys6HasherVz_tF",
+            "moduleName": "ClientSecurityV4",
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:16ClientSecurityV416NewTokenStrategyO",
+        "mangledName": "$s16ClientSecurityV416NewTokenStrategyO",
+        "moduleName": "ClientSecurityV4",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "HostConnect",
         "printedName": "HostConnect",
         "children": [
@@ -545,6 +931,188 @@
             "isFromExtension": true,
             "throwing": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "mapSessionInfo",
+            "printedName": "mapSessionInfo(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(τ_0_0) -> ClientSecurityV4.ClientSecuritySessionInfo",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ClientSecuritySessionInfo",
+                    "printedName": "ClientSecurityV4.ClientSecuritySessionInfo",
+                    "usr": "s:16ClientSecurityV40aB11SessionInfoV"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VxcSeRzlF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VxcSeRzlF",
+            "moduleName": "ClientSecurityV4",
+            "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable>",
+            "sugared_genericSig": "<T where T : Swift.Decodable>",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "tokenHost",
+            "printedName": "tokenHost(host:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC05tokenD04hostACXDSS_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC05tokenD04hostACXDSS_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "secureValue",
+            "printedName": "secureValue(secure:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC11secureValue0F0ACXDSS_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC11secureValue0F0ACXDSS_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "refreshTokenURL",
+            "printedName": "refreshTokenURL(url:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC15refreshTokenURL3urlACXDSS_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC15refreshTokenURL3urlACXDSS_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "newTokenStrategy",
+            "printedName": "newTokenStrategy(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NewTokenStrategy",
+                "printedName": "ClientSecurityV4.NewTokenStrategy",
+                "usr": "s:16ClientSecurityV416NewTokenStrategyO"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC16newTokenStrategyyACXDAA03NewgH0OF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC16newTokenStrategyyACXDAA03NewgH0OF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "jwtExpiredKey",
+            "printedName": "jwtExpiredKey(key:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC13jwtExpiredKey3keyACXDSS_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC13jwtExpiredKey3keyACXDSS_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "jwtBufferExpTime",
+            "printedName": "jwtBufferExpTime(exp:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC16jwtBufferExpTime3expACXDSd_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC16jwtBufferExpTime3expACXDSd_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
@@ -643,37 +1211,100 @@
       "value": "\".account\""
     },
     {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 781,
+      "length": 44,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 814,
+      "length": 1,
+      "value": "\".jwt.token\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 858,
+      "length": 50,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 891,
+      "length": 1,
+      "value": "\".jwt.expiredDate\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 950,
+      "length": 47,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 983,
+      "length": 1,
+      "value": "\".refreshToken\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "StringLiteral",
+      "offset": 1034,
+      "length": 13,
+      "value": "\"currentUser\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/ClientAuthorize.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2823,
+      "length": 4,
+      "value": "true"
+    },
+    {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "BooleanLiteral",
-      "offset": 215,
+      "offset": 512,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "IntegerLiteral",
+      "offset": 824,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14598,
+      "offset": 17560,
       "length": 38,
       "value": "\"hello phuket service company limited\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14651,
+      "offset": 17613,
       "length": 25,
       "value": "\"megazy company limited.\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14692,
+      "offset": 17654,
       "length": 25,
       "value": "\"government savings bank\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 14733,
+      "offset": 17695,
       "length": 25,
       "value": "\"ministry of justice, th\""
     }
