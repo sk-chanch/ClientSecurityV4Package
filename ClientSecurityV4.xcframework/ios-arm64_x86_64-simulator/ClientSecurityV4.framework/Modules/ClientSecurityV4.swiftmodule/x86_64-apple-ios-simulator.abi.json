@@ -945,25 +945,41 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(τ_0_0) -> ClientSecurityV4.ClientSecuritySessionInfo",
+                "printedName": "(τ_0_0?) -> ClientSecurityV4.ClientSecuritySessionInfo?",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "ClientSecuritySessionInfo",
-                    "printedName": "ClientSecurityV4.ClientSecuritySessionInfo",
-                    "usr": "s:16ClientSecurityV40aB11SessionInfoV"
+                    "name": "Optional",
+                    "printedName": "ClientSecurityV4.ClientSecuritySessionInfo?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ClientSecuritySessionInfo",
+                        "printedName": "ClientSecurityV4.ClientSecuritySessionInfo",
+                        "usr": "s:16ClientSecurityV40aB11SessionInfoV"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
+                    "name": "Optional",
+                    "printedName": "τ_0_0?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VxcSeRzlF",
-            "mangledName": "$s16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VxcSeRzlF",
+            "usr": "s:16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VSgxSgcSeRzlF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC14mapSessionInfoyACXDAA0abgH0VSgxSgcSeRzlF",
             "moduleName": "ClientSecurityV4",
             "genericSig": "<τ_0_0 where τ_0_0 : Swift.Decodable>",
             "sugared_genericSig": "<T where T : Swift.Decodable>",
@@ -1110,6 +1126,42 @@
             "declKind": "Func",
             "usr": "s:16ClientSecurityV411HostConnectC16jwtBufferExpTime3expACXDSd_tF",
             "mangledName": "$s16ClientSecurityV411HostConnectC16jwtBufferExpTime3expACXDSd_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "onTokenInvalid",
+            "printedName": "onTokenInvalid(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(Foundation.Data) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Data",
+                    "printedName": "Foundation.Data",
+                    "usr": "s:10Foundation4DataV"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC14onTokenInvalidyACXDy10Foundation4DataVcF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC14onTokenInvalidyACXDy10Foundation4DataVcF",
             "moduleName": "ClientSecurityV4",
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
@@ -1276,35 +1328,35 @@
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "IntegerLiteral",
-      "offset": 824,
+      "offset": 825,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17540,
+      "offset": 17797,
       "length": 38,
       "value": "\"hello phuket service company limited\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17593,
+      "offset": 17850,
       "length": 25,
       "value": "\"megazy company limited.\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17634,
+      "offset": 17891,
       "length": 25,
       "value": "\"government savings bank\""
     },
     {
       "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
       "kind": "StringLiteral",
-      "offset": 17675,
+      "offset": 17932,
       "length": 25,
       "value": "\"ministry of justice, th\""
     }

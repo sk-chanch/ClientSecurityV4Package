@@ -47,13 +47,14 @@ extension ClientSecurityV4.HostConnect {
   public func updateAuthenticationAsync() async throws -> Swift.String
 }
 extension ClientSecurityV4.HostConnect {
-  public func mapSessionInfo<T>(_ handler: @escaping (T) -> ClientSecurityV4.ClientSecuritySessionInfo) -> Self where T : Swift.Decodable
+  public func mapSessionInfo<T>(_ handler: @escaping (T?) -> ClientSecurityV4.ClientSecuritySessionInfo?) -> Self where T : Swift.Decodable
   public func tokenHost(host: Swift.String) -> Self
   public func secureValue(secure: Swift.String) -> Self
   public func refreshTokenURL(url: Swift.String) -> Self
   public func newTokenStrategy(_ strategy: ClientSecurityV4.NewTokenStrategy) -> Self
   public func jwtExpiredKey(key: Swift.String) -> Self
   public func jwtBufferExpTime(exp: Foundation.TimeInterval) -> Self
+  public func onTokenInvalid(_ handler: @escaping (Foundation.Data) -> Swift.Void) -> Self
 }
 @_hasMissingDesignatedInitializers public class ClientSite {
   @objc deinit
