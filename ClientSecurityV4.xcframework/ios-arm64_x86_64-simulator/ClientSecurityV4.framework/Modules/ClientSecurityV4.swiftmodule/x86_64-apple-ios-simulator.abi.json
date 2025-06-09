@@ -1359,6 +1359,13 @@
       "offset": 17932,
       "length": 25,
       "value": "\"ministry of justice, th\""
+    },
+    {
+      "filePath": "\/Users\/mkmini\/iOS\/ClientSecurityV4\/ClientSecurityV4\/HostConnect.swift",
+      "kind": "StringLiteral",
+      "offset": 17973,
+      "length": 23,
+      "value": "\"department of tourism\""
     }
   ]
 }
