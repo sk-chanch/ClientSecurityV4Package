@@ -55,6 +55,7 @@ extension ClientSecurityV4.HostConnect {
   public func jwtExpiredKey(key: Swift.String) -> Self
   public func jwtBufferExpTime(exp: Foundation.TimeInterval) -> Self
   public func onTokenInvalid(_ handler: @escaping (Foundation.Data) -> Swift.Void) -> Self
+  public func status(status: Swift.Bool) -> Self
 }
 @_hasMissingDesignatedInitializers public class ClientSite {
   @objc deinit

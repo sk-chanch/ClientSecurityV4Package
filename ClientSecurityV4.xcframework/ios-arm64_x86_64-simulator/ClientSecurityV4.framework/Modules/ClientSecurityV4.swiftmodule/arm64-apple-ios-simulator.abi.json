@@ -1165,6 +1165,30 @@
             "moduleName": "ClientSecurityV4",
             "isFromExtension": true,
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "status",
+            "printedName": "status(status:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "DynamicSelf",
+                "printedName": "Self"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:16ClientSecurityV411HostConnectC6statusAdCXDSb_tF",
+            "mangledName": "$s16ClientSecurityV411HostConnectC6statusAdCXDSb_tF",
+            "moduleName": "ClientSecurityV4",
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",
